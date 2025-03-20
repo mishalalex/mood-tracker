@@ -26,9 +26,7 @@ Click on a mood button to log your current mood.
 
 View past moods in the timeline.
 
-Use the filter dropdown to switch between all, week, and month views.
-
-Check the calendar view for a monthly overview.
+Clear cache from local storage (see screenshot below) to reset mood tracking
 
 ## 🖼️ Screenshots
 
